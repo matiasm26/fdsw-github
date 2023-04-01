@@ -2,6 +2,10 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+nav img{
+  height: 6em !important;
+}
+
 /* Hero Section */
 
 #Hero-Section {
